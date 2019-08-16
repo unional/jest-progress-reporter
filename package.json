@@ -42,7 +42,7 @@
     "codecov": "^3.4.0",
     "dependency-check": "^3.3.0",
     "eslint": "^5.16.0",
-    "eslint-plugin-harmony": "^1.0.4",
+    "eslint-plugin-harmony": "^2.0.0",
     "greenkeeper-lockfile": "^1.15.1",
     "jest": "^24.8.0",
     "jest-audio-reporter": "^2.2.1",
