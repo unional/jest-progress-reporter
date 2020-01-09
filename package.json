@@ -50,7 +50,7 @@
     "jest-watch-suspend": "^1.1.2",
     "jest-watch-toggle-config": "^1.0.2",
     "rimraf": "^3.0.0",
-    "semantic-release": "^15.13.13",
+    "semantic-release": "^16.0.0",
     "ts-jest": "^24.0.2",
     "tslint": "^5.16.0",
     "tslint-config-unional": "^0.10.0",
